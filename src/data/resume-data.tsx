@@ -134,13 +134,13 @@ export const RESUME_DATA = {
       },
     },
     {
-      title: "SafeGuard - Women Safety & Emergency Alert App",
-      techStack: ["AWS", "Express.js", "MySQL"],
-      description: "A cloud-based emergency reporting system enabling real-time volunteer alerts, secure incident logging, and location-based emergency assistance.",
+      title: "CROWDEASE – Smart Food Ordering with Real-Time Crowd Tracking",
+      techStack: ["Node.js", "Express.js", "TypeScript", "Prisma", "Zod" ],
+      description: "CROWDEASE helps Parul University students order food efficiently by tracking real-time crowd density, reducing wait times, and suggesting less crowded food courts.",
       logo: YearProgressLogo,
       link: {
         label: "GitHub",
-        href: "https://github.com/SoftwareDeveloperYadavJi/women-safety-backend.git",
+        href: "https://github.com/SoftwareDeveloperYadavJi/MinorProjectBackend",
       },
     },
     {
