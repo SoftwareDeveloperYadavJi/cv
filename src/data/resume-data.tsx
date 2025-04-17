@@ -58,8 +58,25 @@ export const RESUME_DATA = {
       start: "2022",
       end: "2026",
     },
+    {
+      school: "Ramniranjan Jhunjhunwala College",
+      degree: "Higher Secondary School Certificate",
+      start: "2020",
+      end: "2022",
+    },
   ],
   work: [
+    {
+      company: "FutureBlink",
+      link: "https://futureblink.com/",
+      badges: ["Remote"],
+      title: "Software Development Intern",
+      logo: ParabolLogo,
+      start: "April 2025",
+      end: "Present",
+      description:
+        "Currently serving as a Software Development Intern, contributing to the design and development of full-stack web applications using the MERN stack. Responsibilities include building responsive front-end interfaces with React.js, developing scalable and secure RESTful APIs with Node.js and Express, designing efficient MongoDB schemas, and participating in system architecture discussions. Adhering to Agile methodologies and best coding practices to ensure clean, maintainable, and high-performance code.",
+    },
     {
       company: "DevNBrand",
       link: "https://devnbrand.com",
@@ -69,12 +86,12 @@ export const RESUME_DATA = {
       start: "November 2024",
       end: "January 2025",
       description:
-        "Led and managed multiple technical projects, ensuring seamless collaboration between development teams. Oversaw system architecture, deployment strategies, and technical decision-making, while optimizing workflows and improving project efficiency.",
+        "As a Technical Project Manager Intern, I led cross-functional teams, including backend and frontend developers, to deliver a high-quality and optimized product. I took a hands-on approach, diving deeply into the technology stack to ensure the product was built with efficiency and scalability in mind. My role required not only managing timelines and deliverables but also collaborating closely with the team to solve complex technical challenges. I am deeply passionate about exploring technology at a granular level, which made this role an incredibly engaging and fulfilling experience",
     },
   ],
   skills: [
     "Python",
-    "Go",
+    "Java",
     "JavaScript",
     "TypeScript",
     "Node.js",
@@ -82,13 +99,10 @@ export const RESUME_DATA = {
     "NestJS",
     "Docker",
     "Kubernetes",
-    "Jenkins",
     "GitHub Actions",
     "Linux",
     "AWS",
     "Google Cloud",
-    "OAuth 2.0",
-    "Zero Trust Security",
     "API Gateway",
     "Microservices Architecture",
     "Serverless Computing",
@@ -98,7 +112,6 @@ export const RESUME_DATA = {
     "PostgreSQL",
     "Redis",
     "REST API",
-    "GraphQL",
     "WebSocket",
     "Kafka",
   ],
@@ -106,7 +119,7 @@ export const RESUME_DATA = {
     {
       title: "SecondBrain -  Knowledge Manager",
       techStack: ["TypeScript", "Node.js", "Express.js", "MongoDB"],
-      description: "A smart bookmarking tool that categorizes and personalizes collections, enabling instant content sharing and retrieval with AI-driven insights.",
+      description: "SecondBrain is a knowledge management tool that allows users to create, manage, and share notes and documents. It features a user-friendly interface, real-time collaboration, and advanced search capabilities. one click sharing and easy access to all your notes. ",
       logo: ConsultlyLogo,
       link: {
         label: "GitHub",
@@ -116,7 +129,7 @@ export const RESUME_DATA = {
     {
       title: "DecideNow - Interactive Voting & Polling Platform",
       techStack: ["TypeScript", "NestJS", "Socket.IO", "Redis"],
-      description: "A real-time voting application allowing dynamic participation with instant updates, leveraging WebSockets and Redis caching for seamless interaction.",
+      description: " DecideNow allows users to create voting rooms, share room codes, add nominations, and conduct real-time voting sessions. Utilizing socket connections, it ensures instant updates for all participants. Simplify decision-making processes in groups with this efficient and interactive tool!",
       logo: MonitoLogo,
       link: {
         label: "GitHub",
@@ -124,13 +137,13 @@ export const RESUME_DATA = {
       },
     },
     {
-      title: "TeachMe - Course Selling Platform",
-      techStack: ["Express.js", "Node.js", "MongoDB","cloudinary","Zod"],
-      description: "A backend service for online education platforms, featuring role-based access control, secure authentication, and seamless course management APIs.",
-      logo: BarepapersLogo,
+      title: "Dynamic Skill Marketplace",
+      techStack: ["Express.js", "Node.js", "Postgress","Prisma","Google Auth"],
+      description: "The Dynamic Skill Marketplace frontend delivers a sleek, modern, and user-friendly experience for skill exchange. It facilitates user interactions, profile management, skill matching, Google Meet scheduling, and more additions to enhance the overall user experience.",
+      logo: GitHubIcon,
       link: {
         label: "GitHub",
-        href: "https://github.com/SoftwareDeveloperYadavJi/teachme.git",
+        href: "https://github.com/SoftwareDeveloperYadavJi/skillFussionBackend",
       },
     },
     {
