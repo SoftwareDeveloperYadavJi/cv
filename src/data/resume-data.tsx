@@ -26,8 +26,8 @@ export const RESUME_DATA = {
   locationLink: "https://maps.app.goo.gl/MmrPBdQfEPi9HBjRA",
   about:
     "Passionate backend engineer specializing in scalable, high-performance, and secure infrastructure. I thrive on designing cutting-edge systems, automating workflows, and solving complex challenges in DevOps, cybersecurity, and distributed computing.",
-  summary:
-    "I am a highly driven backend engineer with expertise in designing robust architectures, optimizing microservices, and streamlining CI/CD pipelines. With extensive experience in cybersecurity, API development, and cloud platforms, I ensure secure, scalable, and efficient software solutions that drive business success.",
+  summary:   `Hi, I’m Nitin Yadav, a backend engineer focused on building scalable, secure, and maintainable systems. Currently pursuing a B.Tech in Computer Science at Parul Institute of Technology, I’ve developed high-impact projects like a real-time voting app using NestJS and Redis, a secure course-selling backend with role-based access and JWT authentication, and a phishing detection system using machine learning and Flask. My tech stack includes JavaScript, TypeScript, Node.js, Python, and frameworks such as Express, NestJS, and Django. I’ve deployed cloud-native solutions on AWS and Google Cloud, automated CI/CD workflows with GitHub Actions and Docker, and integrated security across development pipelines. With over 250 LeetCode problems solved, I continuously refine my problem-solving skills and thrive in building performant backend infrastructures.`,
+
   avatarUrl: "https://res.cloudinary.com/dehkbnswl/image/upload/v1728467125/Profile_mxshjw.jpg",
   personalWebsiteUrl: "https://www.nitintech.dev/",
   contact: {
