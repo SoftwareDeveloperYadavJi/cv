@@ -67,15 +67,15 @@ export const RESUME_DATA = {
   ],
   work: [
     {
-      company: "FutureBlink",
-      link: "https://futureblink.com/",
+      company: "Xivtech",
+      link: "https://www.xivtech.io/",
       badges: ["Remote"],
-      title: "Software Development Intern",
+      title: "Devops Engineer Intern",
       logo: ParabolLogo,
       start: "April 2025",
       end: "Present",
       description:
-        "Currently serving as a Software Development Intern, contributing to the design and development of full-stack web applications using the MERN stack. Responsibilities include building responsive front-end interfaces with React.js, developing scalable and secure RESTful APIs with Node.js and Express, designing efficient MongoDB schemas, and participating in system architecture discussions. Adhering to Agile methodologies and best coding practices to ensure clean, maintainable, and high-performance code.",
+        "Currently serving as a DevOps Engineer Intern, contributing to the development and management of a cost-effective hybrid cloud infrastructure using AWS and on-premise resources. Responsibilities include automating CI/CD pipelines with GitHub Actions and Docker, orchestrating containerized applications with Kubernetes, and implementing infrastructure-as-code using Terraform. Actively involved in optimizing cloud resource utilization, enhancing system reliability through monitoring and alerting with CloudWatch, and collaborating across teams to support secure, scalable deployments in line with Agile workflows and DevOps best practices.",
     },
     {
       company: "DevNBrand",
